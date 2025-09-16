@@ -2,10 +2,6 @@
 
 An offline-first, peer-to-peer emergency communication system designed for disaster-prone areas with no internet connectivity. Built with modern React UI and Go backend using libp2p networking.
 
-**Demo video**
-    
-[outfile.webm](https://github.com/user-attachments/assets/7940c3cd-d245-44ee-961d-6ce7953df8fa)
-
 ## 🌟 Key Features
 
 ### 💬 Modern Chat Interface
@@ -87,8 +83,6 @@ Implementation is in `/internal/p2p/mdns.go`
 - **PWA-enabled** for mobile app-like experience
 - **Real-time updates** with optimistic UI updates
 - **Emergency-focused design** with crisis-appropriate color schemes
-
-![Modern UI](ui.png)
 
 ## 🚀 Quick Start Guide
 
